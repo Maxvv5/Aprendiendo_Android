@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //MAE FIJESE SI UD PUEDE AGREGAR UNA LINEA DE COMENTARIO
+        //MAE FIJESE SI UD PUEDE AGREGAR UNA LINEA DE COMENTARIO, Lo
     }
 }
