@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ejemplo2HolaMundo</string>
+    <string name="presionar">presionar</string>
+    <string name="push_me">push me</string>
 </resources>
